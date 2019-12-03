@@ -1,17 +1,7 @@
-# Readme - Preparation and Running This Code
+# Readme 
 
-## Customer Segmentation Project
+## Customer Segmentation
 
-### A light EDA piece
+### Exploratory Data Analysis
 
-#### Setup:
 
-1. You will need to have `numpy`, `pandas`, `seaborn`, and `matplotlib`.
-
-2. The data set is from Kaggle and can be downloaded from this repo.
-
-#### That is all, I hope you enjoy!
-
-My other projects can be found at my [GitHub](https://github.com/rileypredum).
-
-I also write about them on [Medium](https://medium.com/@rileypredum).
